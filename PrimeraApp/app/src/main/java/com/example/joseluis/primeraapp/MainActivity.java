@@ -39,8 +39,8 @@ public class MainActivity extends AppCompatActivity {
                     txtvOne.setText(saveVariable);
                 }
 
-//                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-//                        .setAction("Action", null).show();
+                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
+                        .setAction("Action", null).show();
             }
         });
 
